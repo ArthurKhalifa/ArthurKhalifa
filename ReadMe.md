@@ -1,7 +1,10 @@
 # 💫 Oi, eu sou Arthur 👋
-💻 Atualmente estou estudando a área de Front-end ultilizando JAVASCRIPT | REACT | HTLM | CSS, com o objetivo de iniciar trabalhando nessa área da programação.<br>🌍 Moro em Vitória de Santo Antão, Pernambuco - Brasil.<br>✉️ Pode contatar-me em: arthursantosae@hotmail.com<br>
+💻 Atualmente estou estudando a área de Front-end ultilizando JAVASCRIPT | REACT | HTLM | CSS, com o objetivo de iniciar trabalhando nessa área da programação.<br>
 
-Portfolio
+🌍 Moro em Vitória de Santo Antão, Pernambuco - Brasil.<br>
+✉️ Pode contatar-me em: arthursantosae@hotmail.com<br>
+
+PORTFOLIO
 👉 https://arthurkhalifa.github.io/Portfolio/
 
 ## 🌐 Socials:
