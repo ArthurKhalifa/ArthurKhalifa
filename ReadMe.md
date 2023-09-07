@@ -1,5 +1,5 @@
 # 💫 Oi, eu sou Arthur 👋
-💻 Atualmente estou estudando a área de Front-end ultilizando JAVASCRIPT | REACT | HTLM | CSS, com o objetivo de iniciar trabalhando nessa área da programação.<br>
+💻 Atualmente estou estudando a área de FullStack utilizando JAVASCRIPT | REACT | NODE | MYSQL, com o objetivo de iniciar trabalhando nessa área da programação.<br>
 
 🌍 Moro em Vitória de Santo Antão, Pernambuco - Brasil.<br>
 ✉️ Pode contatar-me em: arthursantosae@hotmail.com<br>
