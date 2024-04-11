@@ -5,7 +5,7 @@
 ✉️ Pode contatar-me em: arthursantosae@hotmail.com<br>
 
 PORTFOLIO
-👉 https://arthurkhalifa.github.io/Portfolio/
+👉 [https://arthurkhalifa.github.io/Portfolio/](https://arthurkhalifa.github.io/Atual-Portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthursantos00/) 
